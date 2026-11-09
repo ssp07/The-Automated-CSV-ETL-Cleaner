@@ -1,0 +1,19 @@
+Date,Category,Description,Amount,Type,Account_Tier
+2026-11-01,Revenue,Client Project Retainer Invoice,5250.00,Credit,Premium_Partner
+2026-11-01,Overhead,Corporate Main Office Rent Rent,-1200.00,Debit,Standard_Node
+2026-11-02,Cloud_Infra,Production AWS Multi-Region Server,-450.50,Debit,Infrastructure_Core
+2026-11-02,Software,Enterprise SaaS Security Suite,-89.99,Debit,Standard_Node
+2026-11-03,Revenue,Strategic Advisory Consultation,1420.00,Credit,Premium_Partner
+2026-11-03,Marketing,Global Target Search Ad Campaign,-300.00,Debit,Standard_Node
+2026-11-04,Operations,Hardware Hardware Node Upgrades,-150.00,Debit,Infrastructure_Core
+2026-11-04,Revenue,Client Project Retainer Invoice,5250.00,Credit,Premium_Partner
+2026-11-05,Software,Dynamic CRM Database Automation,,Debit,Standard_Node
+2026-11-05,Logistics,International Freight Delivery System,-620.00,Debit,
+2026-11-06,Revenue,Contract Advisory Consultation,1420.00,Credit,Premium_Partner
+2026-11-06,Overhead,Corporate Main Office Rent Rent,-1200.00,Debit,Standard_Node
+2026-11-07,Cloud_Infra,Production AWS Multi-Region Server,-450.50,Debit,Infrastructure_Core
+2026-11-07,Compliance,State Regulatory Tax Filing,,Debit,Unknown
+2026-11-08,Operations,Backup Cooling Hardware Grid,-210.00,Debit,Infrastructure_Core
+2026-11-08,Revenue,Direct Asset Monetization Yield,3100.00,Credit,Premium_Partner
+2026-11-09,Marketing,Social Engagement Lead Inflows,-180.00,Debit,
+2026-11-09,Operations,Backup Cooling Hardware Grid,-210.00,Debit,Infrastructure_Core
